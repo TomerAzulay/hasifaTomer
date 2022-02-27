@@ -1,0 +1,45 @@
+{
+    "name": "bloodDrops",
+    "maps": [
+        {
+            "name": "PD",
+            "id": "e4fe21fb-3703-4ef1-b717-de45fd73f1ae",
+            "actions": [
+                {
+                    "name": "bloodDrops",
+                    "type": "Button",
+                    "id": "a20f9661-a2ce-4486-86f7-28a6e8b2fb67",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5b38f3a3-ffe8-4e7b-a88b-875a8684b215",
+                    "path": "<Keyboard>/c",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "bloodDrops",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

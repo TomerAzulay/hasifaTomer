@@ -1,0 +1,33 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "spawner",
+            "id": "fe54e07f-41e5-44d2-818c-26252c885488",
+            "actions": [
+                {
+                    "name": "spawns",
+                    "type": "Button",
+                    "id": "12affdde-5d41-4a82-80cd-6361e692b8c2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1f27fff0-07dc-476c-9935-c38b0e2fec02",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "spawns",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
